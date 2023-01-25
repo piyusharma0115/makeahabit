@@ -1,0 +1,160 @@
+.purabox{
+    position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FEF9E1;
+}
+.ho{
+    position: absolute;
+    width: 560px;
+    height: 104px;
+    left: 460px;
+    top: 10px;
+    
+    font-family: 'JejuMyeongjo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 88px;
+    line-height: 88px;
+    
+    color: #000000;
+}
+.bottext{
+    position: absolute;
+width: 566px;
+height: 57px;
+left: 820px;
+top: 730px;
+
+font-family: 'Jacques Francois';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 53px;
+
+color: #000000;
+
+}
+.happy{
+    position: absolute;
+width: 154px;
+height: 53px;
+left: 1040px;
+top: 675px;
+
+font-family: 'JejuMyeongjo';
+
+font-weight: 400;
+font-size: 50px;
+line-height: 50px;
+background-color: #CDFBB8;
+border-color: #CDFBB8;
+
+
+}
+.para{
+    position: absolute;
+width: 499px;
+height: 265px;
+left: 151px;
+top: 240px;
+
+font-family: 'JejuMyeongjo';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 60px;
+
+color: #000000;
+}
+.side{
+    position: absolute;
+    width: 381px;
+    height: 186px;
+    left: 920px;
+    top: 180px;
+
+font-family: 'JejuMyeongjo';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 60px;
+
+color: #000000;
+
+}
+.num{
+    position: absolute;
+width: 48px;
+height: 81px;
+left: 1033px;
+top: 400px;
+
+font-family: 'JejuMyeongjo';
+font-style: normal;
+font-weight: 400;
+font-size: 106px;
+line-height: 106px;
+
+color: #000000;
+}
+.p{
+    position: absolute;
+width: 50px;
+height: 51px;
+left: 910px;
+top: 674px;
+}
+.box1{
+    position: absolute;
+width: 645.06px;
+height: 556px;
+left: 112px;
+top: 216.59px;
+
+background: #FFDDDD;
+border-radius: 35px;
+transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.box2{
+    position: absolute;
+    width: 381px;
+    height: 186px;
+    left: 866px;
+    top: 215px;
+    
+    background: #D5C9F7;
+    border-radius: 30px;
+}
+.box3{
+    position: absolute;
+width: 381px;
+height: 186px;
+left: 866px;
+top: 467px;
+
+background: #F8C8BE;
+border-radius: 30px;
+}
+.box4{
+    position: absolute;
+width: 233px;
+height: 78px;
+left: 1001px;
+top: 664px;
+
+background: #CDFBB8;
+border-radius: 30px;
+}
+.box5{
+    position: absolute;
+width: 84px;
+height: 65px;
+left: 896px;
+top: 667px;
+
+background: rgba(52, 43, 43, 0.65);
+opacity: 0.2;
+border-radius: 20px;
+}
